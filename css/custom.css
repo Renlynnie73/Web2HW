@@ -36,8 +36,22 @@ body {
 {
   background: #FFA577;
   padding: 10px 0;
-  }
+}
+
   img{
-  padding: 10px 0;
+  padding: 10px;
+  }
+
+  .imgs{
+  padding: 0px;
+  border: 3px solid #D55448;
+
+  }
+
+  .col-md-12
+  {
+    background-color: #F9F9FF!important;
+     padding: 10px;
+     color: #D55448!important;
 
   }
