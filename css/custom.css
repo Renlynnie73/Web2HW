@@ -1,0 +1,39 @@
+.footer {
+  background: #D55448;
+  padding: 10px 0;
+}
+.footer a {
+  color: #F9F9FF;
+  font-size: 20px;
+  padding: 10px;
+  border-right: 1px solid #FFA577;
+  transition: all .5s ease;
+}
+.footer a:first-child {
+  border-left: 1px solid #FFA577;
+}
+.footer a:hover {
+  color: #FFA577;
+}
+
+.jumbotron {
+    background-color: #D55448!important;
+	color: #F9F9FF!important;
+	
+}
+
+body {
+    background-color: #896E69!important;
+}
+
+.col-md-4
+{
+ background-color: #F9F9FF!important;
+  padding: 10px;
+}
+
+.mt-1
+{
+  background: #FFA577;
+  padding: 10px 0;
+  }
